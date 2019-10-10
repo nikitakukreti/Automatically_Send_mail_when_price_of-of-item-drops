@@ -1,1 +1,1 @@
-# Automatically_Send_mail_when_price_of-of-item-drops
+# Automatically_Send_mail_whenpriceof-item-drops
